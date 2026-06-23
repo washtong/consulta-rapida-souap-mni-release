@@ -1,5 +1,5 @@
 {
-  "versao": "1.4.6",
-  "changelog": "Corrige envio do SOAPAction para tribunais Microsoft WCF (ex: TJRJ), restaura funcao de consulta de teor e melhora deteccao de erros SOAP.",
-  "download_url": "https://github.com/washtong/consulta-rapida-souap-mni-release/releases/download/v1.4.6/ConsultaMNI_v1.4.6.zip"
+  "versao": "1.4.7",
+  "changelog": "Remove filtros desnecessarios do Catalogo de Bases e adiciona botao Cancelar na tela de Configuracao.",
+  "download_url": "https://github.com/washtong/consulta-rapida-souap-mni-release/releases/download/v1.4.7/ConsultaMNI_v1.4.7.zip"
 }
