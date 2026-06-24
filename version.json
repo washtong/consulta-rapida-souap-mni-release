@@ -1,5 +1,5 @@
 {
-  "versao": "1.4.8",
-  "changelog": "Melhorias no layout da aba Consulta, busca no XML integrada ao resultado em lote, opcao DCP/Pje/Projud, botao Copiar XML e correcao da visualizacao do XML ao trocar processo no lote.",
-  "download_url": "https://github.com/washtong/consulta-rapida-souap-mni-release/releases/download/v1.4.8/ConsultaMNI_v1.4.8.zip"
+  "versao": "1.4.9",
+  "changelog": "Corrige exibicao dos botoes Atualizar agora e Mais tarde na tela de atualizacao automatica.",
+  "download_url": "https://github.com/washtong/consulta-rapida-souap-mni-release/releases/download/v1.4.9/ConsultaMNI_v1.4.9.zip"
 }
