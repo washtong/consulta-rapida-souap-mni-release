@@ -1,5 +1,5 @@
 {
-  "versao": "1.5.1",
-  "changelog": "Corrige exibicao do Exportar em Lote e Processo do Lote ao trocar de servico, e melhora processo de atualizacao automatica.",
-  "download_url": "https://github.com/washtong/consulta-rapida-souap-mni-release/releases/download/v1.5.1/ConsultaMNI_v1.5.1.zip"
+  "versao": "1.5.2",
+  "changelog": "Adiciona tooltip nas opcoes de criptografia (DCP/PJe/Projud, eProc) com descricao de uso de cada opcao.",
+  "download_url": "https://github.com/washtong/consulta-rapida-souap-mni-release/releases/download/v1.5.2/ConsultaMNI_v1.5.2.zip"
 }
